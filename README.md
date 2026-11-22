@@ -72,8 +72,8 @@ Each card replays what the project actually does. Click one to open the repo.
 | Aug 2026 | 177 |
 | Sep 2026 | 3 |
 | Oct 2026 | 35 |
-| Nov 2026 | 78 |
-| **Total** | **682** |
+| Nov 2026 | 96 |
+| **Total** | **700** |
 
 <!-- activity-table:end -->
 
